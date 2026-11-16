@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WorkOrderReporting.Unit.Tests/WorkOrderReporting.Unit.Tests.csproj" />
+  <Project Path="WorkOrderReporting/WorkOrderReporting.csproj" />
+</Solution>
